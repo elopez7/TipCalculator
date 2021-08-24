@@ -13,4 +13,5 @@ Enter the tip rate: User_Input
 Output
 
 Tip: $2
+
 Total: $17
